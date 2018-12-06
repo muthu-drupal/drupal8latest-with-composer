@@ -1,0 +1,19 @@
+name: 'SPHTechBlog'
+type: profile
+description: 'Install SPHTechBlog which creates Author and Blog content type.'
+version: VERSION
+core: 8.x
+install:
+  - node
+  - field_ui
+  - ckeditor
+  - image
+  - taxonomy
+  - toolbar
+  - block
+  - dblog
+  - page_cache
+  - dynamic_page_cache
+themes:
+  - bartik
+  - seven

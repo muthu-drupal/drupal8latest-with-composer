@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies: {  }
+name: Keywords
+vid: keywords
+description: 'Keywords are used to Blog Posts to make them SEO friendly.'
+hierarchy: 0
+weight: 0
